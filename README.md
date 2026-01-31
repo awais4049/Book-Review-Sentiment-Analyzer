@@ -217,8 +217,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@awais4049](https://github.com/awais4049)
+- LinkedIn: [Awais Ashraf]((https://www.linkedin.com/in/awais-ashraf-b931aa305/)
 
 ## 🙏 Acknowledgments
 
@@ -230,7 +230,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to:
 - Open an issue on GitHub
-- Reach out via email: your.email@example.com
+- Reach out via email: ashrafawais542@gmail.com
 
 ---
 
